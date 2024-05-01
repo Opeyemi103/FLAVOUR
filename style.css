@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #4912a834; /* Light gray background */
+    background-color: #7c51c034; /* Light gray background */
   }
   
   .container {
@@ -8,13 +8,13 @@ body {
     margin: 0 auto;
     text-align: center;
     padding: 20px;
-    background-color: #200606; /* White container background */
+    background-color: #ffffff; /* White container background */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
   h1 {
-    color: #333333; /* Dark gray text */
+    color: #ffffff; /* Dark gray text */
   }
   
   .challenge {
@@ -31,7 +31,7 @@ body {
   button {
     padding: 10px 20px;
     margin-top: 5px;
-    background-color: #28a745; /* Green button */
+    background-color: #28a746b2; /* Green button */
     color: #ffffff; /* White text */
     border: none;
     cursor: pointer;
@@ -40,7 +40,7 @@ body {
   }
   
   button:hover {
-    background-color: #0a2c12; /* Darker green on hover */
+    background-color: #133e1d; /* Darker green on hover */
   }
   
   p {
